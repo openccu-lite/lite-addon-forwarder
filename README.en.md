@@ -8,7 +8,7 @@ speaks the line protocol: VictoriaMetrics, QuestDB, Telegraf), **HTTP webhooks**
 OpenSearch**, **Prometheus** (a scrape endpoint or remote_write), **PostgreSQL / TimescaleDB** and **MySQL / MariaDB**
 (your own INSERT statements in an editor), **Syslog** (RFC 5424 over UDP, TCP or TLS), **GELF** (Graylog) and **Grafana
 Loki**. Any number of targets, reusable selections, configurable schemas through Jinja templates, a status per target,
-an overflow to disk while a target is down. An addon for [openccu-lite](https://github.com/hobbyquaker/openccu-lite).
+an overflow to disk while a target is down. An addon for [openccu-lite](https://github.com/openccu-lite/openccu-lite).
 
 ## What it does
 

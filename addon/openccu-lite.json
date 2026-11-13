@@ -7,9 +7,9 @@
     "en": "Forwards the Homematic devices' events, the system's statistics, the machine's figures and the system's logs (journal and audit) to external stores: InfluxDB, HTTP webhooks, Elasticsearch/OpenSearch, Prometheus, PostgreSQL/TimescaleDB, MySQL/MariaDB, syslog, GELF and Grafana Loki, with any number of targets, reusable selections and configurable schemas through Jinja templates and an SQL editor."
   },
   "version": "0.3.0",
-  "homepage": "https://github.com/hobbyquaker/lite-addon-forwarder",
+  "homepage": "https://github.com/openccu-lite/lite-addon-forwarder",
   "licence": "MIT",
-  "changelog": "https://github.com/hobbyquaker/lite-addon-forwarder/blob/main/CHANGELOG.md",
+  "changelog": "https://github.com/openccu-lite/lite-addon-forwarder/blob/main/CHANGELOG.md",
   "release": {
     "github": "hobbyquaker/lite-addon-forwarder",
     "asset": "forwarder-{arch}-{version}.tar.gz"

@@ -147,9 +147,9 @@
         </dl>
         <p class="fw-small fw-muted">{t('about.privacy')}</p>
         <p class="fw-links fw-small">
-            <a href="https://github.com/hobbyquaker/lite-addon-forwarder" target="_blank" rel="noopener">lite-addon-forwarder {t('on GitHub')}</a>
-            · <a href="https://github.com/hobbyquaker/lite-addon-forwarder/blob/main/CHANGELOG.md" target="_blank" rel="noopener">{t('Changelog')}</a>
-            · <a href="https://github.com/hobbyquaker/lite-addon-forwarder/issues" target="_blank" rel="noopener">{t('Issues')}</a>
+            <a href="https://github.com/openccu-lite/lite-addon-forwarder" target="_blank" rel="noopener">lite-addon-forwarder {t('on GitHub')}</a>
+            · <a href="https://github.com/openccu-lite/lite-addon-forwarder/blob/main/CHANGELOG.md" target="_blank" rel="noopener">{t('Changelog')}</a>
+            · <a href="https://github.com/openccu-lite/lite-addon-forwarder/issues" target="_blank" rel="noopener">{t('Issues')}</a>
         </p>
     </div>
 </div>

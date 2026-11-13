@@ -9,7 +9,7 @@ Protokolle des Systems (das Journal und die Audit-Zeilen: wer hat was geändert)
 remote_write), **PostgreSQL / TimescaleDB** und **MySQL / MariaDB** (eigene INSERT-Anweisungen im Editor), **Syslog**
 (RFC 5424 über UDP, TCP oder TLS), **GELF** (Graylog) und **Grafana Loki**. Beliebig viele Ziele, wiederverwendbare
 Auswahlen, konfigurierbare Schemata per Jinja-Templates, Status je Ziel, ein Überlauf auf den Datenträger, wenn ein
-Ziel ausfällt. Ein Addon für [openccu-lite](https://github.com/hobbyquaker/openccu-lite).
+Ziel ausfällt. Ein Addon für [openccu-lite](https://github.com/openccu-lite/openccu-lite).
 
 ## Was es tut
 
